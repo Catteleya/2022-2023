@@ -1,3 +1,15 @@
+*{
+  text-align: center;
+}
+body{
+  background-color: #ddd;
+}
+button{
+  color: purple;
+}
+button:hover{
+  color: brown;
+}
 bottomFixButtionComponent{
   position: sticky;
   bottom: 0px;
@@ -8,4 +20,4 @@ bottomFixButtionComponent{
   justify-content: space-around;
   align-items: center;
   box-shadow: 0px -4px 3px rgb(27 27 24 / 75%);
-  }
+}
